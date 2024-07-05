@@ -10,7 +10,7 @@
 [![automate crypto trading](https://github.com/Sagleft/Sagleft/blob/master/github_banner_2.png?raw=true)](https://t.me/get_matrixbot?start=github_org)
 
 ## Полезные статьи
-1. [огарифмическая Сеточная торговля](https://dzen.ru/a/Zm9T8nL_6yadGXPX?share_to=link) Криптовалютой - лучшая Стратегия Трейдинга на Споте на Бинанс и Bybit торговыми ботами.
+1. [Логарифмическая Сеточная торговля](https://dzen.ru/a/Zm9T8nL_6yadGXPX?share_to=link) Криптовалютой - лучшая Стратегия Трейдинга на Споте на Бинанс и Bybit торговыми ботами.
 2. [Идеальный бот для торговли](https://dzen.ru/a/Zlm-QAaVZAjQgPJs?share_to=link) криптовалютой на Бинанс и Bybit: какой он?
 3. [Используем Notcoin](https://dzen.ru/a/ZlGiUTBBSlv5XnhA?share_to=link), чтобы зарабатывать USDT: не продавай, а торгуй монетами NOT, узнай как заработать.
 4. [Настраиваем торгового бота](https://dzen.ru/a/ZkxmQ4wPOBoHJeji?share_to=link) с умеренным уровнем риска.
